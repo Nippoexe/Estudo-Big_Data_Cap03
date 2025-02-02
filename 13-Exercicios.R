@@ -1,5 +1,4 @@
-# Lista de Exercícios - Capítulo 4 
-
+# Lista de Exercícios]
 # Obs: Caso tenha problemas com a acentuação, consulte este link:
 # https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding
 
